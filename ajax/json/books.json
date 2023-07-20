@@ -1,0 +1,18 @@
+{
+    "library": {
+      "book": [
+        {
+          "title": "Java",
+          "author": "Androutsos"
+        },
+        {
+          "title": "Databases",
+          "author": "Kapetis"
+        },
+        {
+          "title": "Networking",
+          "author": "Fragoudakis"
+        }
+      ]
+    }
+  }
